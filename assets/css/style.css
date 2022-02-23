@@ -26,7 +26,7 @@ img {
 main {
     margin: 0 20%;
 }
-
+/* Nav Bar */
 nav {
     background-color: beige;
     padding: 10px;
@@ -51,7 +51,7 @@ nav a {
 nav a:hover {
     color: darkred;
 }
-
+/* Banner */
 #banner {
     width: 100%;
     height: auto;
@@ -62,7 +62,7 @@ nav a:hover {
     width: 60%;
     height: auto;
 }
-
+/* Div style on homePage */
 .service {
     display: inline-block;
     background-color: white;
@@ -74,7 +74,7 @@ nav a:hover {
     margin: 10px;
     text-align: center;
 }
-
+/* Table */
 table {
     border: 3px solid black;
     width: 100%;
